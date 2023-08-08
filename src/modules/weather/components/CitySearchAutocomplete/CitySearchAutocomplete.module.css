@@ -1,0 +1,13 @@
+.container {
+}
+
+.input {
+  border-bottom: 1px solid var(--fontColor);
+  font-size: clamp(1.2rem, 2.5vw, 1.5rem);
+  width: 100%;
+  line-height: 1.5;
+}
+
+.error {
+  color: var(--error);
+}
