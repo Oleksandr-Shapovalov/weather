@@ -39,5 +39,5 @@
     "vite": "^4.4.5",
     "vite-tsconfig-paths": "^4.2.0"
   },
-  "homepage": "https://ksfgn.github.io/"
+  "homepage": "https://ksfgn.github.io/weather"
 }
